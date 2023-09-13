@@ -1,5 +1,5 @@
 {
-  "request_id": "2023_09_13_9c9b4c2dc040dcc8c6f6g",
+  "request_id": "2023_09_13_27b0f59ad6f48f99250bg",
   "version": "RSK-M118p1i1",
   "image_width": 600,
   "image_height": 800,
@@ -10,5 +10,5 @@
   "confidence": 0.8319320678710938,
   "confidence_rate": 0.9611530340137138,
   "text": "Solve each quadratic equation by \\( u \\)\n1) \\( \\mathrm{n}^{2}-12=0 \\)\n3) \\( (k-6)^{2}=49 \\)\n5) \\( u^{2}=64 \\)\n6)\n7) \\( (y+2)^{2}=-9 \\)\n8)",
-  "html": "<div>Solve each quadratic equation by <span class=\"math-inline \">\n<asciimath style=\"display: none;\">u</asciimath><latex style=\"display: none\">u</latex></span></div>\n<ol>\n<li><span class=\"math-inline \">\n<asciimath style=\"display: none;\">n^(2)-12=0</asciimath><latex style=\"display: none\">\\mathrm{n}^{2}-12=0</latex></span></li>\n<li><span class=\"math-inline \">\n<asciimath style=\"display: none;\">(k-6)^(2)=49</asciimath><latex style=\"display: none\">(k-6)^{2}=49</latex></span></li>\n<li><span class=\"math-inline \">\n<asciimath style=\"display: none;\">u^(2)=64</asciimath><latex style=\"display: none\">u^{2}=64</latex></span></li>\n<li></li>\n<li><span class=\"math-inline \">\n<asciimath style=\"display: none;\">(y+2)^(2)=-9</asciimath><latex style=\"display: none\">(y+2)^{2}=-9</latex></span></li>\n<li></li>\n</ol>\n"
+  "html": "<div>Solve each quadratic equation by <span class=\"math-inline \">\n<latex style=\"display: none\">u</latex></span></div>\n<ol>\n<li><span class=\"math-inline \">\n<latex style=\"display: none\">\\mathrm{n}^{2}-12=0</latex></span></li>\n<li><span class=\"math-inline \">\n<latex style=\"display: none\">(k-6)^{2}=49</latex></span></li>\n<li><span class=\"math-inline \">\n<latex style=\"display: none\">u^{2}=64</latex></span></li>\n<li></li>\n<li><span class=\"math-inline \">\n<latex style=\"display: none\">(y+2)^{2}=-9</latex></span></li>\n<li></li>\n</ol>\n"
 }

@@ -40,9 +40,12 @@ for image_name in os.listdir(input_dir):
     # Send the image to Mathpix API for processing
     payload = {
         "src": f"data:image/jpeg;base64,{image_base64}",
-        "formats": ["text", "data"],
+        "formats": ["text", "html"],
         "ocr": ["math", "text"],
-        "skip_recrop": True
+        "skip_recrop": True,
+        "data_options": {
+            "include_latex": True
+        }
     }
 
     response = requests.post(url, headers=headers, json=payload)

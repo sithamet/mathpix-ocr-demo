@@ -1,5 +1,5 @@
 {
-  "request_id": "2023_09_13_09ac5eb58ebc3c47aa98g",
+  "request_id": "2023_09_13_071d5bf26e573397c5d0g",
   "version": "RSK-M118p1i1",
   "image_width": 600,
   "image_height": 800,
@@ -10,5 +10,5 @@
   "confidence": 0.002379258494333775,
   "confidence_rate": 0.1507215833472604,
   "text": "Solve each quadiantic eculation by using scus\n1) \\( m^{2}-12=0 \\)\n3) \\( (k-5)^{2}=49 \\)\n5) \\( d^{2}=64 \\)\n7) \\( b+2 r^{2}=-9 \\)",
-  "data": []
+  "html": "<div>Solve each quadiantic eculation by using scus</div>\n<ol>\n<li><span class=\"math-inline \">\n<asciimath style=\"display: none;\">m^(2)-12=0</asciimath><latex style=\"display: none\">m^{2}-12=0</latex></span></li>\n<li><span class=\"math-inline \">\n<asciimath style=\"display: none;\">(k-5)^(2)=49</asciimath><latex style=\"display: none\">(k-5)^{2}=49</latex></span></li>\n<li><span class=\"math-inline \">\n<asciimath style=\"display: none;\">d^(2)=64</asciimath><latex style=\"display: none\">d^{2}=64</latex></span></li>\n<li><span class=\"math-inline \">\n<asciimath style=\"display: none;\">b+2r^(2)=-9</asciimath><latex style=\"display: none\">b+2 r^{2}=-9</latex></span></li>\n</ol>\n"
 }

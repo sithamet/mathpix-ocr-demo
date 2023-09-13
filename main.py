@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 
 from openai_helper import send_to_openai_api
 
-openai_test_mode = True
+openai_test_mode = False
 
 # Load environment variables
 load_dotenv()

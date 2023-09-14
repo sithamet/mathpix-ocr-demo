@@ -40,7 +40,7 @@ OPENAI_API_KEY=YOUR_API_KEY
 ```
 
 5. Run the code:
-6. 
+
 ```
 python main.py
 ```

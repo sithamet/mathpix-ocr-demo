@@ -11,18 +11,22 @@ This repo contains code to extract math equations from images using Mathpix API 
 ## Installation
 
 1. Clone the repo:
+
 ```
 git clone https://github.com/username/repo-name.git
 ```
 2. (Optional) Create and activate a virtual environment:
+
 ```
 virtualenv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate
 ````
-3. Install the requirements:
+3. Install the requirements
+   
 ```
 pip install -r requirements.txt
 ```
+
 4. Create a .env file with your API keys:
 ```
 MATHPIX_APP_ID=YOUR_APP_ID
@@ -34,7 +38,9 @@ If you want immediately test if GPT understands the output, add
 ```
 OPENAI_API_KEY=YOUR_API_KEY
 ```
+
 5. Run the code:
+6. 
 ```
 python main.py
 ```

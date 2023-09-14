@@ -47,5 +47,3 @@ python main.py
 This will process all images in the  `input`  folder and save the responses in the  `output`  and  `answers`  folders.
 
 To test in OpenAI test mode, set  `openai_test_mode = True`  in  `main.py` . This will send requests to OpenAI's test API endpoint.
-
-Let me know if you have any other questions!
